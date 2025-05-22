@@ -34,7 +34,7 @@ ___
 
 [this is link to google website](http://www.google.go.th)
 
-| header1 | header2 | header 3|
+<!-- | header1 | header2 | header 3|
 -- | :--: | --:
 | *content 1* | **content 2** | *__content 3__*
-| *content 1* | **content 2** | *__content 3__*
+| *content 1* | **content 2** | *__content 3__* -->
